@@ -1,4 +1,4 @@
-### Here you can find links to my websites / Mini-Games,
+### Here you can find links to my Mini Games,
 
 
 - 🔗 https://lashadeiso.github.io/Mini-Games/dice-roller/
